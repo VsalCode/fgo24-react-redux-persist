@@ -1,6 +1,6 @@
-# To Do List
+# To Do List Redux
 
-In This project i create a Simple Todo List App, to learn how React Context works
+In This project i create a Simple Todo List App, to learn how Redux Toolkit and Redux Persist works
 
 ## Preview
 
@@ -10,7 +10,7 @@ In This project i create a Simple Todo List App, to learn how React Context work
 
 Clone this project url :
 
-``` https://github.com/VsalCode/fgo24-react-todo.git ```
+``` https://github.com/VsalCode/fgo24-react-redux-persist.git ```
 
 after entering the folder, install the dependencies:
 
@@ -21,8 +21,12 @@ To run the web you can use the command :
 ```npm run dev```
 
 ##  dependencies used
-- Vite
+- Vite + React JS
 - Tailwind CSS
+- React Icons
+- Redux Tool Kit
+- Redux Persist
+- React Hook Form
 
 ## How To Contribute
 
